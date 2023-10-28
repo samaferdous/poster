@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.sign{
+    border: 2px solid black ;
+}
+.main{
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+#h{
+    color: aqua;
+}
+p{
+    text-align: center;
+    color: cadetblue;
+    font-style: italic;
+    font-size: 50px;
+}
+#i{
+    margin-left: 550px;
+}
+#second{
+    text-align: right;
+}
+#one{
+    margin-left: 300px;
+}
